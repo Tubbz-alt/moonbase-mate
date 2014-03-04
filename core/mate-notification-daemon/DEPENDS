@@ -1,0 +1,2 @@
+depends mate-common
+depends libnotify4

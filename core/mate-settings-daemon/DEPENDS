@@ -1,0 +1,3 @@
+depends mate-common
+depends dconf
+depends gtk+-3

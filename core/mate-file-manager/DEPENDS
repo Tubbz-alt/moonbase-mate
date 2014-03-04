@@ -1,0 +1,3 @@
+depends mate-common
+depends gdbus-codegen
+depends libunique

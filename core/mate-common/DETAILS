@@ -1,0 +1,15 @@
+          MODULE=mate-common
+         VERSION=1.6.2
+          SOURCE=$MODULE-$VERSION.tar.xz
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.6
+      SOURCE_VFY=sha1:925ffcfd96824e74a88c6a7f6265102e397fdbb5
+        WEB_SITE=http://www.mate-desktop.org
+         ENTERED=20140304
+         UPDATED=20140304
+           SHORT="Common library for the MATE Desktop Environment"
+
+cat << EOF
+mate-common is the common library for the MATE Desktop Environment,
+a Gnome2 based desktop environment.
+EOF
+
