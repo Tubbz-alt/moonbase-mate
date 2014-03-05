@@ -1,0 +1,15 @@
+          MODULE=gupnp
+         VERSION=0.20.10
+          SOURCE=$MODULE-$VERSION.tar.xz
+      SOURCE_URL=https://download.gnome.org/sources/gupnp/0.20
+      SOURCE_VFY=sha256:5c7f9278b50ed252606552e2f148be4e1b1616bc93ebc8b09b22fcf5d8aa08e4
+        WEB_SITE=http://www.gnome.org
+         ENTERED=20140305
+         UPDATED=20140305
+           SHORT="GObject-oriented framework for creating UPnP devices"
+
+cat << EOF
+gUPnP is an elegant, object-oriented open source framework for creating UPnP
+devices and control points, writtin in C using GObject and libsoup.
+EOF
+

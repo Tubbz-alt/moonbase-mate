@@ -1,2 +1,2 @@
 depends mate-common
-depends mate-doc-utils
+depends itstool

@@ -1,0 +1,15 @@
+          MODULE=gssdp
+         VERSION=0.14.7
+          SOURCE=$MODULE-$VERSION.tar.xz
+      SOURCE_URL=https://download.gnome.org/sources/gssdp/0.14
+      SOURCE_VFY=sha1:15e2bcce56936649f67b760919270f2df34a7b50
+        WEB_SITE=http://www.gnome.org
+         ENTERED=20140305
+         UPDATED=20140305
+           SHORT="GObject-based API over SSDP"
+
+cat << EOF
+GSSDP is a GObject-based API for handling resource discovery and announcement
+over SSDP.
+EOF
+
