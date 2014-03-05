@@ -1,15 +1,15 @@
           MODULE=mate-terminal
-         VERSION=1.6.2
+         VERSION=1.8.0
           SOURCE=$MODULE-$VERSION.tar.xz
-      SOURCE_URL=http://pub.mate-desktop.org/releases/1.6
-      SOURCE_VFY=sha1:951c006c5ee31da0d0da1ebad4d1e6648fe0e41b
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:14b380c71aaf73499f5ae292ee14d2eb27920074  
         WEB_SITE=http://www.mate-desktop.org
          ENTERED=20140304
          UPDATED=20140304
-           SHORT="Desktop library for the MATE Desktop Environment"
+           SHORT="Terminal for the MATE Desktop Environment"
 
 cat << EOF
-mate-desktop is the desktop library for the MATE Desktop Environment,
-a Gnome2 based desktop environment.
+mate-terminal is the terminal for the MATE Desktop Environment, a Gnome2
+based desktop environment.
 EOF
 

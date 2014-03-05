@@ -1,0 +1,15 @@
+          MODULE=eom
+         VERSION=1.8.0
+          SOURCE=$MODULE-$VERSION.tar.xz
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:580b3c06e16e14dd3f72d545f47f295af5d67dd1                
+        WEB_SITE=http://www.mate-desktop.org
+         ENTERED=20140304
+         UPDATED=20140304
+           SHORT="Image viewer for the MATE Desktop Environment"
+
+cat << EOF
+eom (Eye of MATE) is a image viewer for the MATE Desktop Environment, a Gnome2
+based desktop environment.
+EOF
+

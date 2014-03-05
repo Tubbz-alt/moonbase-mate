@@ -1,0 +1,15 @@
+          MODULE=mate-netbook
+         VERSION=1.8.0
+          SOURCE=$MODULE-$VERSION.tar.xz
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:64723fcf6a3a42e7faacfb54fb0c85103af5b1ba    
+        WEB_SITE=http://www.mate-desktop.org
+         ENTERED=20140304
+         UPDATED=20140304
+           SHORT="Desktop library for the MATE Desktop Environment"
+
+cat << EOF
+mate-netbook is a library for the MATE Desktop Environment, a Gnome2 based
+desktop environment, that will extend the NetBook support.
+EOF
+

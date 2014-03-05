@@ -1,15 +1,15 @@
           MODULE=mate-menus
-         VERSION=1.6.0
+         VERSION=1.8.0
           SOURCE=$MODULE-$VERSION.tar.xz
-      SOURCE_URL=http://pub.mate-desktop.org/releases/1.6
-      SOURCE_VFY=sha1:798e1e96e8dea48d93f1db90b6fbe69d0a3f3ea5
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:e2c3eda5123da8ff30dcd5f86c4ad9426e34a7b5  
         WEB_SITE=http://www.mate-desktop.org
          ENTERED=20140304
          UPDATED=20140304
            SHORT="Desktop library for the MATE Desktop Environment"
 
 cat << EOF
-mate-desktop is the desktop library for the MATE Desktop Environment,
+mate-menus is the menu library for the MATE Desktop Environment,
 a Gnome2 based desktop environment.
 EOF
 

@@ -1,0 +1,15 @@
+          MODULE=mate-control-center
+         VERSION=1.8.0
+          SOURCE=$MODULE-$VERSION.tar.xz
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:d65088d1d7e9cf20aac466c98622f579979dc396  
+        WEB_SITE=http://www.mate-desktop.org
+         ENTERED=20140304
+         UPDATED=20140304
+           SHORT="Desktop library for the MATE Desktop Environment"
+
+cat << EOF
+mate-control-center is the GUI settings manager for the MATE Desktop Environment,
+a Gnome2 based desktop environment.
+EOF
+

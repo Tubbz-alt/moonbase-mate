@@ -1,0 +1,14 @@
+          MODULE=python-caja
+         VERSION=1.8.0
+          SOURCE=$MODULE-$VERSION.tar.xz
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:858e3edaee698b3f99189d3285061ab56b21828c            
+        WEB_SITE=http://www.mate-desktop.org
+         ENTERED=20140304
+         UPDATED=20140304
+           SHORT="Python support for the MATE file manager caja"
+
+cat << EOF
+python-caja is a python support wrapper for the MATE file manager caja.
+EOF
+

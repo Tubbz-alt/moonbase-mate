@@ -1,0 +1,15 @@
+          MODULE=mozo
+         VERSION=1.8.0
+          SOURCE=$MODULE-$VERSION.tar.xz
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:0b0779088181c74837dda85134e2c451e3399b2a          
+        WEB_SITE=http://www.mate-desktop.org
+         ENTERED=20140304
+         UPDATED=20140304
+           SHORT="Menu editor for the MATE Desktop Environment"
+
+cat << EOF
+mozo is a menu editor for the MATE Desktop Environment, a Gnome2
+based desktop environment.
+EOF
+

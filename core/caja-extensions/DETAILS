@@ -1,0 +1,14 @@
+          MODULE=caja-extensions
+         VERSION=1.8.0
+          SOURCE=$MODULE-$VERSION.tar.xz
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:b4872265988745bfc39531e2eb6ac6d41a01a645                      
+        WEB_SITE=http://www.mate-desktop.org
+         ENTERED=20140304
+         UPDATED=20140304
+           SHORT="Extensions for the MATE file manager."
+
+cat << EOF
+caja-extensions is a set of extensions for the MATE file manager caja.
+EOF
+

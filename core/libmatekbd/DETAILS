@@ -1,15 +1,15 @@
           MODULE=libmatekbd
-         VERSION=1.6.2
+         VERSION=1.8.0
           SOURCE=$MODULE-$VERSION.tar.xz
-      SOURCE_URL=http://pub.mate-desktop.org/releases/1.6
-      SOURCE_VFY=sha1:224eba31dbf6d44f69ae3b75712a0bb90717df68
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:8034737a40d5a2f1e4857a21110b4f1eacf0db30
         WEB_SITE=http://www.mate-desktop.org
          ENTERED=20140304
          UPDATED=20140304
            SHORT="Desktop library for the MATE Desktop Environment"
 
 cat << EOF
-mate-desktop is the desktop library for the MATE Desktop Environment,
-a Gnome2 based desktop environment.
+libmatekbd is library needed for desktop keyboard support for the MATE
+Desktop Environment, a Gnome2 based desktop environment.
 EOF
 

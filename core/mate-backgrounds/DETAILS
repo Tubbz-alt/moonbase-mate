@@ -1,15 +1,15 @@
           MODULE=mate-backgrounds
-         VERSION=1.6.1
+         VERSION=1.8.0
           SOURCE=$MODULE-$VERSION.tar.xz
-      SOURCE_URL=http://pub.mate-desktop.org/releases/1.6
-      SOURCE_VFY=sha1:7905527e9f4f0edeae15c8a6c444c53b45f260bf
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:10ac06edf3255a21535916a44b0d67f3710e8145  
         WEB_SITE=http://www.mate-desktop.org
          ENTERED=20140304
          UPDATED=20140304
            SHORT="Desktop library for the MATE Desktop Environment"
 
 cat << EOF
-mate-desktop is the desktop library for the MATE Desktop Environment,
+mate-backgrounds is a collection of backgrounds for the MATE Desktop Environment,
 a Gnome2 based desktop environment.
 EOF
 

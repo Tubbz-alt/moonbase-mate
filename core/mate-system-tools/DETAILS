@@ -1,0 +1,15 @@
+          MODULE=mate-system-tools
+         VERSION=1.8.0
+          SOURCE=$MODULE-$VERSION.tar.xz
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:11a8d72cf265834867352ad67a2d32485dbc98e0    
+        WEB_SITE=http://www.mate-desktop.org
+         ENTERED=20140304
+         UPDATED=20140304
+           SHORT="System tools collection for the MATE Desktop Environment"
+
+cat << EOF
+mate-system-tools is a collection of system tools for the MATE Desktop Environment,
+a Gnome2 based desktop environment.
+EOF
+

@@ -1,15 +1,15 @@
           MODULE=mate-settings-daemon
-         VERSION=1.6.2
+         VERSION=1.8.0
           SOURCE=$MODULE-$VERSION.tar.xz
-      SOURCE_URL=http://pub.mate-desktop.org/releases/1.6
-      SOURCE_VFY=sha1:76c50bddcffd6b0415b058c828784bcd11c034ee
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:f36819914e03c0f3ceda209fba17a2063990078b  
         WEB_SITE=http://www.mate-desktop.org
          ENTERED=20140304
          UPDATED=20140304
-           SHORT="Desktop library for the MATE Desktop Environment"
+           SHORT="Settings daemon for the MATE Desktop Environment"
 
 cat << EOF
-mate-desktop is the desktop library for the MATE Desktop Environment,
+mate-settings-daemon is the settings daemon for the MATE Desktop Environment,
 a Gnome2 based desktop environment.
 EOF
 

@@ -1,0 +1,15 @@
+          MODULE=mate-utils
+         VERSION=1.8.0
+          SOURCE=$MODULE-$VERSION.tar.xz
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:5f4b6d8f7a39ab078c9ed8302ed97926e57b0596        
+        WEB_SITE=http://www.mate-desktop.org
+         ENTERED=20140304
+         UPDATED=20140304
+           SHORT="Utils for the MATE Desktop Environment"
+
+cat << EOF
+mate-utils is a collection of utils for the MATE Desktop Environment,
+a Gnome2 based desktop environment.
+EOF
+

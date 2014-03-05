@@ -1,0 +1,15 @@
+          MODULE=mate-netspeed
+         VERSION=1.8.0
+          SOURCE=$MODULE-$VERSION.tar.xz
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:d5e9f408ccaedbdeb3917b1d560288420f7f2c3f      
+        WEB_SITE=http://www.mate-desktop.org
+         ENTERED=20140304
+         UPDATED=20140304
+           SHORT="Desktop library for the MATE Desktop Environment"
+
+cat << EOF
+mate-netspeed is a library for the MATE Desktop Environment, a Gnome2 based
+desktop environment, that will provide a network speed indicator.
+EOF
+

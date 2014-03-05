@@ -1,0 +1,15 @@
+          MODULE=mate-sensors-applet
+         VERSION=1.8.0
+          SOURCE=$MODULE-$VERSION.tar.xz
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:0526400ad88b306fc74b2e219ce4aea34476577f        
+        WEB_SITE=http://www.mate-desktop.org
+         ENTERED=20140304
+         UPDATED=20140304
+           SHORT="Sensors applet for the MATE Desktop Environment"
+
+cat << EOF
+mate-sensors-applet is an sensors applet for the MATE Desktop Environment,
+a Gnome2 based desktop environment.
+EOF
+

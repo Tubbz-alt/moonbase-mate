@@ -1,0 +1,15 @@
+          MODULE=mate-applets
+         VERSION=1.8.0
+          SOURCE=$MODULE-$VERSION.tar.xz
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:c9e7ac6f9cc6b6ebd77720b056a3a81536b92419
+        WEB_SITE=http://www.mate-desktop.org
+         ENTERED=20140304
+         UPDATED=20140304
+           SHORT="Desktop library for the MATE Desktop Environment"
+
+cat << EOF
+mate-applets is a collection of several applets for the MATE Desktop Environment,
+a Gnome2 based desktop environment.
+EOF
+

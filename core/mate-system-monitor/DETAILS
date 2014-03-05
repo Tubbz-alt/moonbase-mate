@@ -1,0 +1,15 @@
+          MODULE=mate-system-monitor
+         VERSION=1.8.0
+          SOURCE=$MODULE-$VERSION.tar.xz
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:a8f652340613154fac994cdc060bae95460c1d6f    
+        WEB_SITE=http://www.mate-desktop.org
+         ENTERED=20140304
+         UPDATED=20140304
+           SHORT="System monitor for the MATE Desktop Environment"
+
+cat << EOF
+mate-system-monitor is the system monitor for the MATE Desktop Environment,
+a Gnome2 based desktop environment.
+EOF
+

@@ -1,0 +1,15 @@
+          MODULE=mate-screensaver
+         VERSION=1.8.0
+          SOURCE=$MODULE-$VERSION.tar.xz
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:b7ab88c3ee5b513630ff99a64c18626ed8ef49fa  
+        WEB_SITE=http://www.mate-desktop.org
+         ENTERED=20140304
+         UPDATED=20140304
+           SHORT="Screensaver support for the MATE Desktop Environment"
+
+cat << EOF
+mate-screensaver is the screensaver support library for the MATE Desktop Environment,
+a Gnome2 based desktop environment.
+EOF
+

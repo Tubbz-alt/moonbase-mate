@@ -1,0 +1,15 @@
+          MODULE=mate-indicator-applet
+         VERSION=1.8.0
+          SOURCE=$MODULE-$VERSION.tar.xz
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:d4db6dc9054d1489333bbba5a9b397a322f1c855      
+        WEB_SITE=http://www.mate-desktop.org
+         ENTERED=20140304
+         UPDATED=20140304
+           SHORT="Desktop library for the MATE Desktop Environment"
+
+cat << EOF
+mate-indicator-applet is an applet for the MATE Desktop Environment,
+a Gnome2 based desktop environment.
+EOF
+

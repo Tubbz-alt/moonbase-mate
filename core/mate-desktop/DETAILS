@@ -1,8 +1,8 @@
           MODULE=mate-desktop
-         VERSION=1.6.2
+         VERSION=1.8.0
           SOURCE=$MODULE-$VERSION.tar.xz
-      SOURCE_URL=http://pub.mate-desktop.org/releases/1.6
-      SOURCE_VFY=sha1:413ef92f1aedf0ffbbf232ce6907211f0f4722a2
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:1e722d18a198751b209fcf255ad5d3653cb8f6e6  
         WEB_SITE=http://www.mate-desktop.org
          ENTERED=20140304
          UPDATED=20140304

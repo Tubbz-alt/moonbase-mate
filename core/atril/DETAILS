@@ -1,0 +1,15 @@
+          MODULE=atril
+         VERSION=1.8.0
+          SOURCE=$MODULE-$VERSION.tar.xz
+      SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
+      SOURCE_VFY=sha1:8327437ba12df61326b83342cea746d1764727d0                    
+        WEB_SITE=http://www.mate-desktop.org
+         ENTERED=20140304
+         UPDATED=20140304
+           SHORT="Document viewer for the MATE Desktop Environment"
+
+cat << EOF
+atril is a document viewer for the MATE Desktop Environment, a Gnome2
+based desktop environment.
+EOF
+
