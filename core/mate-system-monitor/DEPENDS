@@ -1,1 +1,4 @@
 depends mate-common
+depends libgtop
+depends gtkmm
+depends glibmm

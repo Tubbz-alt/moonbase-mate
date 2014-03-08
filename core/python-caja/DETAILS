@@ -2,7 +2,7 @@
          VERSION=1.8.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=http://pub.mate-desktop.org/releases/1.8
-      SOURCE_VFY=sha1:858e3edaee698b3f99189d3285061ab56b21828c            
+      SOURCE_VFY=sha1:63cf08e3f711be8eb44c423322962a18f822031e
         WEB_SITE=http://www.mate-desktop.org
          ENTERED=20140304
          UPDATED=20140304

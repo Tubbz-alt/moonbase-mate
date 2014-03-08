@@ -1,1 +1,3 @@
 depends mate-common
+depends enchant
+depends gtksourceview
